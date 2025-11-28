@@ -22,7 +22,7 @@ In appsettings.json, update the DefaultConnection string to match your mssql ser
   },
 ```
 
-## graphql queries/mutations (https://localhost:5038/graphql)
+## graphql queries/mutations (localhost:5038/graphql)
 
 ```
 mutation AddNewTodo {
