@@ -219,3 +219,4 @@
 /home/avery/Projects/todo-list/todo-list-api/bin/Debug/net10.0/GreenDonut.Data.EntityFramework.dll
 /home/avery/Projects/todo-list/todo-list-api/bin/Debug/net10.0/HotChocolate.Data.dll
 /home/avery/Projects/todo-list/todo-list-api/bin/Debug/net10.0/HotChocolate.Data.EntityFramework.dll
+/home/avery/Projects/todo-list/todo-list-api/obj/Debug/net10.0/hotchocolate-demo.sourcelink.json
