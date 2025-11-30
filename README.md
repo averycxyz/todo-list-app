@@ -57,6 +57,6 @@ mutation UpdateTodo {
 
 # TODO
 
-- mutation deleteTodo
-- Add CRUD operations to client
+- mutation deleteTodo in the api
+- finish adding CRUD operations to client
 - client UI with tailwind css
