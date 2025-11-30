@@ -50,7 +50,7 @@ public class UpdateTodoPayload
 public class UpdateTodoInput
 {
     public int Id { get; set; }
-    public required string Title { get; set; }
+    public string Title { get; set; }
     public bool? IsCompleted { get; set; }
 }
 
